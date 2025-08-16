@@ -51,10 +51,6 @@ python MongoDBGUI.py
 
 #Screenshots
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b3eb2e5b-09e2-4217-8294-b37df69304b5" />
 
-
-
-
-
-
-
+<img width="1918" height="816" alt="Image" src="https://github.com/user-attachments/assets/6179061e-74f9-471f-bf35-f2bc032b298a" />
