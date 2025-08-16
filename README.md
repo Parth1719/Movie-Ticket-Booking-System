@@ -26,6 +26,7 @@ A Movie Ticket Booking System built with Python (Tkinter) and MongoDB to perform
 
 
 #Install dependencies
+
 1.pip install pymongo
 
 2.Start MongoDB server -
