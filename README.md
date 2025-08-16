@@ -4,13 +4,9 @@ A Movie Ticket Booking System built with Python (Tkinter) and MongoDB to perform
 #Features
 
 1.Add New Bookings – Enter movie, customer, and seat details
-
 2.Update Bookings – Modify existing records seamlessly
-
 3.Delete Bookings – Remove unwanted records
-
 4.View All Bookings – Display all stored tickets in a table format
-
 5.Colorful & Responsive UI – Adapts to fullscreen with a clean look
 
 #Tech Stack
