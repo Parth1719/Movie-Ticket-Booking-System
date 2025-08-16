@@ -13,6 +13,7 @@ A Movie Ticket Booking System built with Python (Tkinter) and MongoDB to perform
 
 5.Colorful & Responsive UI – Adapts to fullscreen with a clean look
 
+
 #Tech Stack
 
 1.Programming Language: Python
@@ -23,15 +24,18 @@ A Movie Ticket Booking System built with Python (Tkinter) and MongoDB to perform
 
 4.Driver: PyMongo
 
+
 #Install dependencies
 1.pip install pymongo
 
 2.Start MongoDB server -
 Make sure MongoDB is installed and running locally (mongodb://localhost:27017/).
 
+
 #Run the project
 
 python MongoDBGUI.py
+
 
 #How It Works
 
@@ -42,6 +46,7 @@ python MongoDBGUI.py
 3.Click Add, Update, Delete, or View as needed
 
 4.Data is stored and retrieved from the MongoDB database
+
 
 #Screenshots
 
